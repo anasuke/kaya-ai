@@ -1,4 +1,4 @@
-
+<img width="1024" height="1536" alt="ChatGPT Image Aug 21, 2025, 09_57_11 PM" src="https://github.com/user-attachments/assets/6e7a15cf-a7c7-44dd-af69-55d419fd351d" />
        🌸 Miyo AI Companion 🌸
 
 # Miyo — Your AI Coding Companion

@@ -1,8 +1,8 @@
 <img width="200" height="400" alt="ChatGPT Image Aug 21, 2025, 09_57_11 PM" src="https://github.com/user-attachments/assets/6e7a15cf-a7c7-44dd-af69-55d419fd351d" />
        
-🌸 Miyo AI Companion 🌸
+🌸 Suki AI Companion 🌸
 
-# Miyo — Your AI Coding Companion
+# Suki — Your AI Coding Companion
 
 Miyo is an intelligent coding companion powered by Claude, designed to help developers code faster, learn smarter, and debug easier.  
 Think of Miyo as your supportive partner — always by your side, guiding you like a light through your coding journey.  

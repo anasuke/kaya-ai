@@ -4,7 +4,7 @@
 
 # Suke — Your AI Coding Companion
 
-Miyo is an intelligent coding companion powered by Claude, designed to help developers code faster, learn smarter, and debug easier.  
+Suke is an intelligent coding companion powered by Claude, designed to help developers code faster, learn smarter, and debug easier.  
 Think of Suke as your supportive partner — always by your side, guiding you like a light through your coding journey.  
 
 ---

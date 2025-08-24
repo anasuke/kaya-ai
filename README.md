@@ -5,8 +5,8 @@
 
 # Lyka — Your AI Coding Companion
 
-Suke is an intelligent coding companion powered by Claude, designed to help developers code faster, learn smarter, and debug easier.  
-Think of Suke as your supportive partner — always by your side, guiding you like a light through your coding journey.  
+Lyka is an intelligent coding companion powered by Claude, designed to help developers code faster, learn smarter, and debug easier.  
+Think of Lyka as your supportive partner — always by your side, guiding you like a light through your coding journey.  
 
 ---
 
@@ -29,7 +29,7 @@ Think of Suke as your supportive partner — always by your side, guiding you li
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/miyo.git
+git clone https://github.com/yourusername/lyka.git
 cd miyo
 npm install
 ```

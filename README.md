@@ -1,3 +1,4 @@
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/49cce6a7-f860-4e8a-bb3a-8657c662bef6" />
 
 
 🌸 Lyka AI Companion 🌸

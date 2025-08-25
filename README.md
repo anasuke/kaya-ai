@@ -1,7 +1,7 @@
 
 <img width="400" height="700" alt="ChatGPT Image Aug 25, 2025, 11_24_14 AM" src="https://github.com/user-attachments/assets/3f730148-d0e6-42ed-bbc5-e960f8f4407c" />
 
-# 🌸 Kira — The VTuber AI Coding Companion
+# 🌸 Kira — The VTuber Companion
 
 Kira is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
 With her cheerful personality, idol-inspired look, and supportive spirit, Kira makes coding a more **interactive, motivational, and fun experience.**

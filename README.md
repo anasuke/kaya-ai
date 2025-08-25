@@ -1,5 +1,5 @@
-<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/49cce6a7-f860-4e8a-bb3a-8657c662bef6" />
 
+<img width="400" height="700" alt="ChatGPT Image Aug 25, 2025, 11_24_14 AM" src="https://github.com/user-attachments/assets/3f730148-d0e6-42ed-bbc5-e960f8f4407c" />
 
 🌸 Lyka AI Companion 🌸
 

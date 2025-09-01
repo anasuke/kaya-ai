@@ -1,14 +1,14 @@
 
 <img width="400" height="700" alt="ChatGPT Image Sep 1, 2025, 11_41_27 PM" src="https://github.com/user-attachments/assets/3404c2fa-ee0a-46d6-8441-189f455e5dcb" />
 
-# 🌸 Kaya — The AI Coding Companion
+# 🌸 Suki — The AI Coding Companion
 
 Kaya is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
 With her cheerful personality, idol-inspired look, and supportive spirit, Kira makes coding a more **interactive, motivational, and fun experience.**
 
 ---
 
-## 🌟 What Makes Kaya Special?
+## 🌟 What Makes Suki Special?
 
 Unlike traditional AI helpers, Kira is designed to feel like a **real companion**, inspired by the VTuber community.  
 She’s expressive, supportive, and always encouraging you through every coding challenge.  

@@ -3,7 +3,7 @@
 
 # 🌸 Suki — The AI Coding Companion
 
-Kaya is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
+Suki is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
 With her cheerful personality, idol-inspired look, and supportive spirit, Kira makes coding a more **interactive, motivational, and fun experience.**
 
 ---

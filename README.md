@@ -1,5 +1,5 @@
 
-<img width="400" height="700" alt="ChatGPT Image Aug 25, 2025, 11_24_14 AM" src="https://github.com/user-attachments/assets/3f730148-d0e6-42ed-bbc5-e960f8f4407c" />
+<img width="400" height="700" alt="ChatGPT Image Sep 1, 2025, 11_41_27 PM" src="https://github.com/user-attachments/assets/3404c2fa-ee0a-46d6-8441-189f455e5dcb" />
 
 # 🌸 Kaya — The AI Coding Companion
 

@@ -3,17 +3,17 @@
 
 # 🌸 Pikari — The AI Coding Companion
 
-Pikari is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
+Pikari is not just another coding assistant — she’s your **Poke-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
 With her cheerful personality, idol-inspired look, and supportive spirit, Kira makes coding a more **interactive, motivational, and fun experience.**
 
 ---
 
 ## 🌟 What Makes Pikari Special?
 
-Unlike traditional AI helpers, Kira is designed to feel like a **real companion**, inspired by the VTuber community.  
+Unlike traditional AI helpers, Pikari is designed to feel like a **real companion**, inspired by the Pokemon community.  
 She’s expressive, supportive, and always encouraging you through every coding challenge.  
 
-- 🎤 **VTuber Persona** — Kira comes alive with a character design, backstory, and evolving traits.  
+- 🎤 **Poke Persona** — Pikari comes alive with a character design, backstory, and evolving traits.  
 - 💻 **Serious Dev Support** — Powered by Claude, she reviews code, helps debug, and generates prototypes.  
 - 🎮 **Streamer Energy** — Friendly, entertaining, and always upbeat while guiding you.  
 - 🔒 **Your Data, Your World** — Conversations are safe and private.  
@@ -27,7 +27,7 @@ She’s expressive, supportive, and always encouraging you through every coding 
 - 📚 **Learning Buddy** — Explains new frameworks, libraries, and languages clearly.  
 - 🔍 **Debug Support** — Walkthroughs for solving errors step by step.  
 - 🌸 **Companion Mode** — Casual conversation and motivation during long dev sessions.  
-- 🎭 **Custom Persona (Planned)** — Choose outfits, personality traits, and VTuber-like expressions.  
+- 🎭 **Custom Persona (Planned)** — Choose outfits, personality traits, and Poke-like expressions.  
 
 ---
 
@@ -40,7 +40,7 @@ She’s expressive, supportive, and always encouraging you through every coding 
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/kira-vtuber-companion.git
-cd kira-vtuber-companion
+git clone https://github.com/yourusername/kira-Poke-companion.git
+cd kira-Poke-companion
 npm install
 

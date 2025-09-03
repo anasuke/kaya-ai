@@ -1,14 +1,14 @@
 
-<img width="400" height="700" alt="ChatGPT Image Sep 1, 2025, 11_41_27 PM" src="https://github.com/user-attachments/assets/3404c2fa-ee0a-46d6-8441-189f455e5dcb" />
+<img width="300" height="500" alt="ChatGPT Image Sep 3, 2025, 11_19_25 AM" src="https://github.com/user-attachments/assets/e82622d7-b7df-4b65-b8ed-de49199a38d3" />
 
-# 🌸 Suki — The AI Coding Companion
+# 🌸 Pikari — The AI Coding Companion
 
-Suki is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
+Pikari is not just another coding assistant — she’s your **VTuber-style AI companion**, blending the charm of virtual characters with the power of Claude-based intelligence.  
 With her cheerful personality, idol-inspired look, and supportive spirit, Kira makes coding a more **interactive, motivational, and fun experience.**
 
 ---
 
-## 🌟 What Makes Suki Special?
+## 🌟 What Makes Pikari Special?
 
 Unlike traditional AI helpers, Kira is designed to feel like a **real companion**, inspired by the VTuber community.  
 She’s expressive, supportive, and always encouraging you through every coding challenge.  
